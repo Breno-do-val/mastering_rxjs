@@ -1,0 +1,24 @@
+{
+  "name": "master_rxjs",
+  "version": "1.0.0",
+  "description": "Mastering RxJS library",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "keywords": [
+    "rxjs",
+    "reactivex"
+  ],
+  "author": "Breno Ribeiro do Val",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^14.14.37",
+    "nodemon": "^2.0.7",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.3"
+  },
+  "dependencies": {
+    "rxjs": "^6.6.6"
+  }
+}
